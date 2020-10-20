@@ -9,7 +9,7 @@ This repository goes over various examples of parsing JSON data either nested or
 
 **Python_PSQL_NestedJSON:** filename `PSQL_JSON.ipynb`, Psycopg2 parsing nested JSON inside of postgresql
 
-**nested tweets json:** filename `nested_tweets04.json`, parsing extremely nested JSON from raw Twitter data
+**Parse_NestedJSON_tweets:** filename `nested_tweets04.json`, parsing extremely nested JSON from raw Twitter data
 
 **API_NestedJson:** filename `API_Nested_JSON_toDF.ipynb`, Read Nested Twitter Data into Python (without parsing through it)
 
