@@ -3,6 +3,8 @@ Create, Send, Transform JSON Data
 
 This repository goes over various examples of parsing JSON data either nested or unnested. You will have tips and tricks, functions to parse or create JSON data. Import into dataframes as well as database usage.
 
+`--------------------------------------------------`
+
 **JSON to Dataframe and function:** filename `Json_Python.ipynb`, Convert JSON data to data frames 
 
 **Nested JSON Creation Python:** filename `Nested Dictionary Example.ipynb`, Create Nested Dictionaries and Understand Pitfalls
